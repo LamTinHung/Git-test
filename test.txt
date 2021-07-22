@@ -7,3 +7,4 @@ go over it
 go over it
 aaaaaaaaaaaaaaaaaaa
 remote-pull test
+ssh test
