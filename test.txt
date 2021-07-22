@@ -9,3 +9,4 @@ aaaaaaaaaaaaaaaaaaa
 remote-pull test
 ssh test
 ssh pull test
+ssh push test
